@@ -15,3 +15,5 @@ Random Forest Model Code
 RF.m: MATLAB code implementing the Random Forest algorithm for training on the dataset.
 Trained Model File
 RF.mat: This file contains the trained Random Forest model, which can be loaded for predictions.
+
+Please note that the output for microplastic abundance is measured in items per cubic meter (items/m³).
